@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @EmGee87
 - 👀 I’m interested in ... learning! 
-- 🌱 I’m currently learning ... Java, Bosnian language, and Czech language
+- 🌱 I’m currently learning ... Information Science & Technology, and the Bosnian/Croatian/Serbian/Montenegrin Languages! 
 - 💞️ I’m looking to collaborate on ... how to use and get the most out of Git and Github!
 
 
